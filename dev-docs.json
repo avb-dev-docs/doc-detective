@@ -1,0 +1,10 @@
+{
+    "ai": {
+        "internalTypeFilters": [
+            "variable"
+        ],
+        "nameFilters": [
+            "test"
+        ]
+    }
+}

@@ -1,5 +1,6 @@
 {
     "ai": {
+        "populateDoc": "dev-docs/populate.md",
         "internalTypeFilters": [
             "variable"
         ],

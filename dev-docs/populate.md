@@ -8,14 +8,18 @@ Doc Detective ingests test specifications and text files, parses them for testab
 
 This project handles test parsing and web-based UI testing---it doesn't support results reporting or notifications. This framework is a part of testing infrastructures and needs to be complemented by other components.
 
-This is a specific Test for Doc-Detective
+This is a specific Test for Doc-Detective that you can run, if you run the file that contains the JSON or markdown for example like below:
+
+```
+npx doc-detective runTests --input ${file with test}
+
+```
 
 
+## Why should I use this Test?
 
-## Why should I use this function?
-
-## What is params or arguements required?
+## What does this Test do?
 
 ## Prequsites
   
-## How do I use this function?
+
